@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\workspace\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\repositories\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:repositories\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\repositories\\beanvarietyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:repositories\\beanvarietyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\repositories\\icoffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:repositories\\icoffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\repositories\\ibeanvarietyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:repositories\\ibeanvarietyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|c:\\users\\user\\workspace\\coffeeshop\\models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0F7531-159D-4913-AEF0-8377B42412C2}|CoffeeShop.csproj|solutionrelative:models\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:10:37.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T15:24:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICoffeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\ICoffeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICoffeeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\ICoffeeRepository.cs",
+              "RelativeToolTip": "Repositories\\ICoffeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:42:58.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\CoffeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CoffeeRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\CoffeeRepository.cs",
+              "RelativeToolTip": "Repositories\\CoffeeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwD0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:33:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Models\\Coffee.cs",
+              "RelativeDocumentMoniker": "Models\\Coffee.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Models\\Coffee.cs",
+              "RelativeToolTip": "Models\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:25:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBeanVarietyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\IBeanVarietyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBeanVarietyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\IBeanVarietyRepository.cs",
+              "RelativeToolTip": "Repositories\\IBeanVarietyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:09:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeanVarietyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\BeanVarietyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BeanVarietyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\CoffeeShop\\Repositories\\BeanVarietyRepository.cs",
+              "RelativeToolTip": "Repositories\\BeanVarietyRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:05:30.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
